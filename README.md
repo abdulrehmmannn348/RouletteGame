@@ -6,9 +6,11 @@ Code Discription of This Game
 
 function ExtendedRouletteGameApp
    % Create the main UI window
+   
 fig = uifigure('Name', 'Risk Analysis Roulette Game with Random Outcomes', 'Position', [100, 100, 800, 600]);
 
 % Title Label
+
 uilabel(fig, 'Position', [200, 550, 400, 30], 'Text', 'Risk Analysis Roulette Game with Random Outcomes', ...
     'FontSize', 16, 'FontWeight', 'bold', 'HorizontalAlignment', 'center');
 
