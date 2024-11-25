@@ -1,5 +1,9 @@
 # Risk Analyis in Roulette Game with Random Outcomes
 Code Discription of This Game
+
+
+
+
 function ExtendedRouletteGameApp
    % Create the main UI window
 fig = uifigure('Name', 'Risk Analysis Roulette Game with Random Outcomes', 'Position', [100, 100, 800, 600]);
